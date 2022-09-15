@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Golang-%23000000.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/MySQL-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" /> 
 
 <img src="https://img.shields.io/badge/ConterStrike-%23323330.svg?logo=Counter-Strike&logoColor=white&style=flat-square" alt="ConterStrike">
-<img src="https://img.shields.io/badge/League of Legends-%231572b6.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+<img src="https://img.shields.io/badge/League%20of%20Legends-%231572b6.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAD
 BUlEQVQ4ywXBTWtcVRzA4d+595x77p07kzuTycu0EatSK6ZV1I2oXahF6EZEFEQQuhK/gS6krly5
 9gu4FdwIdmMQjJWArVoJqKixiUlo02Qy73Pf/8fnUR+9u753bjlJCvHQOmQ4mZBmKYHx0LrGR4Er
