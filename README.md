@@ -1,14 +1,14 @@
 
-### 🍻 Hi~
+### 🙌 Hi~
 - 🎈 一个兴趣使然的技术爱好者
 - ✨ 理想是制作有意思的产品
 - 🎮 玩的还不错的竞技游戏玩家
-- 🌱 Just do what you want
+- 🍻 A merry heart goes all the way
 - 📭 2669661350lee@gmail.com
 
 
 
-#### 🛠️Technology Stack
+#### 🛠️ Technology Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
 
